@@ -1,0 +1,7 @@
+---
+teamcity_agent_server_url: 54.170.147.47
+teamcity_agent_server_port: 8111
+teamcity_agent_install_dir: /opt/buildAgent
+
+teamcity_server_user_name: john-tony
+teamcity_server_user_passwd: john-tony
